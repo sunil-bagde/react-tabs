@@ -2,7 +2,7 @@ import React from "react";
 
 let NavigateButton = () => {
     return (
-        <span className="relative z-0 inline-flex  ">
+        <span className="relative z-0 inline-flex flex items-center  ">
             <button
                 type="button"
                 className=" relative inline-flex items-center px-2 py-2     border-gray-300 bg-white text-sm leading-5 font-medium text-black hover:text-gray-800 focus:z-10 focus:outline-none focus:border-blue-300 focus:shadow-outline-blue active:bg-gray-100 active:text-black transition ease-in-out duration-150 bg-gray-300 border-r border-gray-500  bg-gray-300   "

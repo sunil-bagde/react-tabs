@@ -2,10 +2,10 @@ import React from "react";
 
 let AddMoreTab = () => {
     return (
-        <div className=" ml-auto flex-grow-0 mr-0  ">
+        <div className=" ml-auto flex-grow-0   relative z-0 inline-flex flex items-center   ">
             <button
                 type="button"
-                className="-ml-px relative inline-flex items-center px-2 py-2  border border-gray-300 bg-white text-sm leading-5 font-medium  text-black focus:z-10 focus:outline-none     bg-gray-300 "
+                className="-ml-px relative inline-flex items-center   py-2  border border-gray-300 bg-white text-sm leading-5 font-medium  text-black focus:z-10 focus:outline-none     bg-gray-300 "
             >
                 <svg
                     xmlns="http://www.w3.org/2000/svg"
