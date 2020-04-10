@@ -1,4 +1,4 @@
-import React, { useState, Children } from "react";
+import React, { useState, useContext, Children } from "react";
 import "./tailwind.generated.css";
 import "./index.css";
 
@@ -7,6 +7,11 @@ import NavigateButton from "./components/Tabs/NavigateButton";
 import AddMoreTab from "./components/Tabs/AddMoreTab";
 
 import * as text from "./text";
+const TabsContext = React.createContext({
+  activeIndex: 0,
+  onSelectTab: () => {},
+});
+
 let tabData = [
   {
     content: text.cars,
@@ -22,26 +27,26 @@ let tabData = [
 function Tabs({ children }) {
   let [activeIndex, setActiveIndex] = useState(0);
 
-  let childrenMap = React.Children.map(children, (child, index) => {
-    return React.cloneElement(child, {
-      activeIndex: activeIndex,
-      onSelectTab: setActiveIndex,
-    });
-  });
-  return childrenMap;
+  return (
+    <TabsContext.Provider value={{ activeIndex, onSelectTab: setActiveIndex }}>
+      {children}
+    </TabsContext.Provider>
+  );
 }
 
-function TabList({ children: C, activeIndex, onSelectTab }) {
+function TabList({ children: C }) {
+  const { activeIndex, onSelectTab } = useContext(TabsContext);
   let children = Children.map(C, (child, index) => {
     return React.cloneElement(child, {
       isActive: index === activeIndex,
       onSelect: () => onSelectTab(index),
+      index: index,
     });
   });
-  return <div className="react-tabs-container h-6">{children} </div>;
+  return children;
 }
 
-function Tab({ children, isActive, onSelect }) {
+function Tab({ children, isActive, onSelect, index }) {
   let isDisabled = false;
 
   return (
@@ -54,7 +59,7 @@ function Tab({ children, isActive, onSelect }) {
     >
       <div className=" text-gray-700 cursor-pointer text-center hover:bg-gray-300 ">
         {"#"}
-        <span>{}</span>
+        {index}
       </div>
       <div className="react-tabs-tab-content pl-3">{children}</div>
       <div className="text-gray-700 cursor-pointer text-center hover:bg-gray-300  ">
@@ -73,7 +78,9 @@ function Tab({ children, isActive, onSelect }) {
   );
 }
 
-function TabPanels({ children, activeIndex }) {
+function TabPanels({ children }) {
+  const { activeIndex } = useContext(TabsContext);
+
   return (
     <div className="bg-white relative" id="features">
       <div className="overflow-hidden">
@@ -94,15 +101,16 @@ function App() {
     <div className=" ">
       <Tabs>
         {/*<NavigateButton />*/}
-        {/*  <NavigateButton></NavigateButton>*/}
-        <TabList>
-          <Tab>New Tab 0</Tab>
-          <Tab>New Tab 1 </Tab>
-          <Tab>New Tab 2 </Tab>
-          <AddMoreTab />
-        </TabList>
-
-        {/*<AddMoreTab />*/}
+        {/*  */}
+        <div className="react-tabs-container h-6">
+          <NavigateButton></NavigateButton>
+          <TabList>
+            <Tab>New Tab 0</Tab>
+            <Tab>New Tab 1 </Tab>
+            <Tab>New Tab 2 </Tab>
+            <AddMoreTab />
+          </TabList>
+        </div>
 
         {/*Panels*/}
         <TabPanels>
