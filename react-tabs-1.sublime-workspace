@@ -4,6 +4,50 @@
 		"selected_items":
 		[
 			[
+				"chi",
+				"children\tabc"
+			],
+			[
+				"se",
+				"setActiveIndex\tlet"
+			],
+			[
+				"chil",
+				"child\tabc"
+			],
+			[
+				"Ni",
+				"NavigateButton\talias"
+			],
+			[
+				"child",
+				"children\tabc"
+			],
+			[
+				"active",
+				"activeIndex\tabc"
+			],
+			[
+				"fal",
+				"false\tkeyword"
+			],
+			[
+				"Tab",
+				"TabList\tabc"
+			],
+			[
+				"sp",
+				"space\t(App.js)"
+			],
+			[
+				"ca",
+				"cars\twarning"
+			],
+			[
+				"new",
+				"NewTabss\tclass"
+			],
+			[
 				"act",
 				"activeTab\tabc"
 			],
@@ -86,10 +130,6 @@
 			[
 				"dis",
 				"disabled\t(thank-you.php)"
-			],
-			[
-				"se",
-				"secondNavbar\t(index.js)"
 			],
 			[
 				"bg-red",
@@ -416,10 +456,6 @@
 				"roles\t(HasPermissions.php)"
 			],
 			[
-				"ca",
-				"call\tabc"
-			],
-			[
 				"permi",
 				"Permission"
 			],
@@ -478,42 +514,6 @@
 			[
 				"tci",
 				"tickets\t(Order.php)"
-			],
-			[
-				"tab",
-				"table-auto\tabc"
-			],
-			[
-				"fil",
-				"filterCalender\tabc"
-			],
-			[
-				"sle",
-				"selectedTrip\tabc"
-			],
-			[
-				"v",
-				"v-model\tabc"
-			],
-			[
-				"end",
-				"ended_at\tabc"
-			],
-			[
-				"stat",
-				"shipStatus\tabc"
-			],
-			[
-				"Mode",
-				"Models\t(Order.php)"
-			],
-			[
-				"mer",
-				"merchant_id\tabc"
-			],
-			[
-				"acc",
-				"access_code\t(index.blade.php)"
 			]
 		]
 	},
@@ -992,7 +992,7 @@
 	],
 	"find":
 	{
-		"height": 68.0
+		"height": 60.0
 	},
 	"find_in_files":
 	{
@@ -1006,6 +1006,21 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"TabList",
+			"useContext",
+			"conso",
+			"onSelectTab",
+			"TabList",
+			"Tabs",
+			"TabPanels",
+			"Tabs",
+			"rest",
+			"TabPanels",
+			"NewTabs",
+			"TabPanels",
+			"TabList",
+			"renderPanel",
+			"NewTab",
 			"16",
 			"ActiveTab",
 			"activeTab",
@@ -1638,7 +1653,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 50.0,
+	"side_bar_width": 218.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
