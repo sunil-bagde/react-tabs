@@ -1,0 +1,59 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		},
+		{
+			"path": "/Users/sunilbagde/Code/react-tabs"
+		},
+		{
+			"path": "/Users/sunilbagde/Code/tailwind-ui"
+		}
+	],
+	"settings":
+	{
+		"js_prettier":
+		{
+			"additional_cli_args":
+			{
+			},
+			"allow_inline_formatting": false,
+			"auto_format_on_save": true,
+			"auto_format_on_save_excludes":
+			[
+				"*/node_modules/*",
+				"*/public/*",
+				"*/.cache/*",
+				"*/.next/*"
+			],
+			"auto_format_on_save_requires_prettier_config": false,
+			"custom_file_extensions":
+			[
+			],
+			"debug": false,
+			"disable_prettier_cursor_offset": false,
+			"disable_tab_width_auto_detection": false,
+			"max_file_size_limit": -1,
+			"node_path": "",
+			"prettier_cli_path": "",
+			"prettier_options":
+			{
+				"arrowParens": "always",
+				"bracketSpacing": true,
+				"htmlWhitespaceSensitivity": "css",
+				"jsxBracketSameLine": false,
+				"parser": "babel",
+				"printWidth": 80,
+				"proseWrap": "preserve",
+				"quoteProps": "as-needed",
+				"requirePragma": false,
+				"semi": true,
+				"singleQuote": false,
+				"tabWidth": 2,
+				"trailingComma": "es5",
+				"vueIndentScriptAndStyle": false
+			}
+		}
+	}
+}

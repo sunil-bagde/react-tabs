@@ -1,13 +1,92 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.react-tabs-container {
+    margin: 0;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+
+    -webkit-flex-flow: row nowrap;
+    justify-content: flex-start;
+
+    height: 37px;
+    overflow: hidden;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.react-tabs-tab {
+    padding: 7px;
+    opacity: 1;
+    font-size: 12px;
+    flex-grow: 1;
+    max-width: 200px;
+    min-width: 40px;
+    font-family: "Segoe UI", sans-serif;
+}
+
+.react-tabs-child {
+    padding: 7px;
+    opacity: 1;
+    font-size: 12px;
+    flex-grow: 0;
+    margin-left: auto;
+    font-family: "Segoe UI", sans-serif;
+}
+
+.react-tabs-tab-content {
+    display: inline-block;
+    width: calc(100% - 20px);
+    overflow: hidden;
+}
+
+.react-tabs-tab-close {
+    visibility: hidden;
+    line-height: 15px;
+
+    display: inline-block;
+    text-align: center;
+    border-radius: 3px;
+    font-size: 16px;
+    font-weight: bold;
+    width: 11px;
+}
+
+.react-tabs-tab-close:hover {
+}
+
+.react-tabs-tab:hover .react-tabs-tab-close {
+    visibility: visible;
+}
+
+.react-tabs-active {
+}
+
+.react-tabs-active .react-tabs-tab-close:hover {
+}
+//
+
+.react-tabs-container {
+    background-color: #001f27;
+    border-color: #002b36;
+}
+
+.react-tabs-tab {
+    color: rgba(153, 178, 184, 0.6);
+}
+
+.react-tabs-tab-close {
+}
+
+.react-tabs-tab-close:hover {
+}
+
+.react-tabs-active {
+    color: white;
+    background-color: #002b36;
+    border-color: #45c3e3;
+}
+
+.react-tabs-active .react-tabs-tab-close {
+}
+
+.react-tabs-active .react-tabs-tab-close:hover {
 }

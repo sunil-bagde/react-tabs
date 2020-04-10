@@ -1,0 +1,1648 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"to",
+				"top\t(app.global.css)"
+			],
+			[
+				"ab",
+				"absolute\t(app.global.css)"
+			],
+			[
+				"rel",
+				"relative\t(app.global.css)"
+			],
+			[
+				"bg-",
+				"bg-gray-200\tabc"
+			],
+			[
+				"obje",
+				"object-cover \tTailwind Class"
+			],
+			[
+				"mb-",
+				"mb-12"
+			],
+			[
+				"border-t",
+				"border-t-0 \tTailwind Class"
+			],
+			[
+				"He",
+				"HeroSectionWave\tabc"
+			],
+			[
+				"H",
+				"HeroSectionWave\tabc"
+			],
+			[
+				"herose",
+				"HeroSectionWave"
+			],
+			[
+				"ju",
+				"justify-center\t(template.html)"
+			],
+			[
+				"dis",
+				"disabled\t(thank-you.php)"
+			],
+			[
+				"se",
+				"secondNavbar\t(index.js)"
+			],
+			[
+				"inli",
+				"inline-flex\tabc"
+			],
+			[
+				"bg-red",
+				"bg-red-800 \tTailwind Class"
+			],
+			[
+				"rou",
+				"rounded \tTailwind Class"
+			],
+			[
+				"use",
+				"useMemo\tuseMemo"
+			],
+			[
+				"im",
+				"images\t(MemberForm.js)"
+			],
+			[
+				"rfc",
+				"rafc,rafce\treactArrowFunctionComponent"
+			],
+			[
+				"path",
+				"pathname\tabc"
+			],
+			[
+				"hf",
+				"href\tabc"
+			],
+			[
+				"des",
+				"deposit-release\tabc"
+			],
+			[
+				"font",
+				"font-bold\tabc"
+			],
+			[
+				"pa",
+				"pathname\tabc"
+			],
+			[
+				"text-gr",
+				"text-gray-600 \tTailwind Class"
+			],
+			[
+				"for",
+				"form-control\tabc"
+			],
+			[
+				"mx",
+				"mx-3 \tTailwind Class"
+			],
+			[
+				"ide",
+				"identityType\tabc"
+			],
+			[
+				"fo",
+				"form-group\tabc"
+			],
+			[
+				"ho",
+				"homeAddress\tabc"
+			],
+			[
+				"form-",
+				"form-group\tabc"
+			],
+			[
+				"ge",
+				"gender\tabc"
+			],
+			[
+				"bor",
+				"border-b\tabc"
+			],
+			[
+				"cu",
+				"cursor-pointer \tTailwind Class"
+			],
+			[
+				"fle",
+				"flex-col \tTailwind Class"
+			],
+			[
+				"clas",
+				"className\tabc"
+			],
+			[
+				"co",
+				"container \tTailwind Class"
+			],
+			[
+				"imp",
+				"import\tabc"
+			],
+			[
+				"sta",
+				"stack-l\tabc"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"Sta",
+				"Stack/Stack.js"
+			],
+			[
+				"sr",
+				"script\tTag"
+			],
+			[
+				"u",
+				"undefined\tabc"
+			],
+			[
+				"ite",
+				"items-center\tabc"
+			],
+			[
+				"es",
+				"ease-in \tTailwind Class"
+			],
+			[
+				"useState",
+				"useState\tabc"
+			],
+			[
+				"fou",
+				"focus:outline-none \tTailwind Class"
+			],
+			[
+				"focus",
+				"focus:bg-white \tTailwind Class"
+			],
+			[
+				"text-gray",
+				"text-gray-500 \tTailwind Class"
+			],
+			[
+				"logo",
+				"logo.svg\tabc"
+			],
+			[
+				"text",
+				"text-gray-900\tabc"
+			],
+			[
+				"mx-w-",
+				"max-w-md \tTailwind Class"
+			],
+			[
+				"wu",
+				"w-full \tTailwind Class"
+			],
+			[
+				"mx-h",
+				"md:max-h-full \tTailwind Class"
+			],
+			[
+				"text-bl",
+				"text-blue-10\tabc"
+			],
+			[
+				"text-b",
+				"text-blue-10\t(app.css)"
+			],
+			[
+				"Loa",
+				"LoanList\tabc"
+			],
+			[
+				"Lo",
+				"LoanList\tabc"
+			],
+			[
+				"Shi",
+				"ShipTime\tabc"
+			],
+			[
+				"sou",
+				"sourceCity"
+			],
+			[
+				"le",
+				"length\tabc"
+			],
+			[
+				"ti",
+				"tickets\tabc"
+			],
+			[
+				"lo",
+				"location\t(services.php)"
+			],
+			[
+				"boo",
+				"bookingDetails\tabc"
+			],
+			[
+				"cons",
+				"console\t(SearchFerryModal.js)"
+			],
+			[
+				"exp",
+				"export\t(SearchFerryModal.js)"
+			],
+			[
+				"Book",
+				"BookingDetails\t(BookingDetails.js)"
+			],
+			[
+				"book",
+				"booking-details\t(ferry-search-results.html)"
+			],
+			[
+				"inpu",
+				"input\tabc"
+			],
+			[
+				"re",
+				"request\tabc"
+			],
+			[
+				"car",
+				"carFrom\tabc"
+			],
+			[
+				"nm",
+				"names\tabc"
+			],
+			[
+				"inp",
+				"input\tabc"
+			],
+			[
+				"Sea",
+				"SearchFerry\t(SearchFerry.js)"
+			],
+			[
+				"shipT",
+				"shipTime\tabc"
+			],
+			[
+				"trip",
+				"trip_id\tabc"
+			],
+			[
+				"bu",
+				"busses\t(Ship.php)"
+			],
+			[
+				"buss",
+				"buses\t(Ship.php)"
+			],
+			[
+				"tic",
+				"ticket\tabc"
+			],
+			[
+				"flex",
+				"flex-1\tabc"
+			],
+			[
+				"ticke",
+				"ticket_type_id\tabc"
+			],
+			[
+				"hidd",
+				"hidden\t(Configurable.php)"
+			],
+			[
+				"tick",
+				"ticket_type_id"
+			],
+			[
+				"with",
+				"withMeta\t(HiddenField.php)"
+			],
+			[
+				"han",
+				"handleInputChange\tabc"
+			],
+			[
+				"di",
+				"dinner\tabc"
+			],
+			[
+				"la",
+				"launch\tabc"
+			],
+			[
+				"check",
+				"checkbox\t(Form.js)"
+			],
+			[
+				"che",
+				"checked\t(Form.js)"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"gua",
+				"guard_name\t(Permission.php)"
+			],
+			[
+				"Per",
+				"Permission\tabc"
+			],
+			[
+				"cl",
+				"class\tAttr"
+			],
+			[
+				"ship",
+				"ship_id\t(Ship.php)"
+			],
+			[
+				"gi",
+				"givePermissionTo\tabc"
+			],
+			[
+				"per",
+				"permission\tabc"
+			],
+			[
+				"Role",
+				"Role::where('name\tabc"
+			],
+			[
+				"role",
+				"roles\t(HasPermissions.php)"
+			],
+			[
+				"ca",
+				"call\tabc"
+			],
+			[
+				"permi",
+				"Permission"
+			],
+			[
+				"ali",
+				"align-items\tabc"
+			],
+			[
+				"numb",
+				"number_of_ticket\t(Order.php)"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"sho",
+				"showOrder\tabc"
+			],
+			[
+				"num",
+				"number_of_vehicle\tabc"
+			],
+			[
+				"veh",
+				"vehicle\tabc"
+			],
+			[
+				"vehicle_nm",
+				"vehicle_name_id\tabc"
+			],
+			[
+				"ve",
+				"vehicle\tabc"
+			],
+			[
+				"vehi",
+				"vehicle\tabc"
+			],
+			[
+				"vehicl",
+				"vehicle_brand_id\t(VehicleNameResource.php)"
+			],
+			[
+				"mo",
+				"model\t(Tool.vue)"
+			],
+			[
+				"ord",
+				"orders\tabc"
+			],
+			[
+				"ce",
+				"center\tabc"
+			],
+			[
+				"tci",
+				"tickets\t(Order.php)"
+			],
+			[
+				"tab",
+				"table-auto\tabc"
+			],
+			[
+				"fil",
+				"filterCalender\tabc"
+			],
+			[
+				"sle",
+				"selectedTrip\tabc"
+			],
+			[
+				"v",
+				"v-model\tabc"
+			],
+			[
+				"end",
+				"ended_at\tabc"
+			],
+			[
+				"stat",
+				"shipStatus\tabc"
+			],
+			[
+				"Mode",
+				"Models\t(Order.php)"
+			],
+			[
+				"mer",
+				"merchant_id\tabc"
+			],
+			[
+				"acc",
+				"access_code\t(index.blade.php)"
+			],
+			[
+				"ser",
+				"service\t(services.php)"
+			],
+			[
+				"wo",
+				"working_key\t(index.blade.php)"
+			],
+			[
+				"fun",
+				"fun\tfunction …"
+			],
+			[
+				"bg",
+				"border-gray-600\tabc"
+			],
+			[
+				"jou",
+				"journey_type\t(Tool.vue)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rena",
+				"Rename File"
+			],
+			[
+				"fo",
+				"JsPrettier: Format Code"
+			],
+			[
+				"pre",
+				"Preferences: JsPrettier Settings - User"
+			],
+			[
+				"es",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"esl",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"eslint",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"renm",
+				"File: Rename"
+			],
+			[
+				"dle",
+				"File: Delete"
+			],
+			[
+				"set sy ts",
+				"Set Syntax: TypeScriptReact"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"de",
+				"ANF: Delete Current File"
+			],
+			[
+				"esli",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"new",
+				"ANF: New File"
+			],
+			[
+				"dele",
+				"ANF: Delete Current File"
+			],
+			[
+				"renam",
+				"Rename File"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"cam",
+				"Convert Case: camelCase"
+			],
+			[
+				"set ba",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"Snippet: rfc",
+				"Snippet: reactFunctionalComponent"
+			],
+			[
+				"dlee",
+				"ANF: Delete Current File"
+			],
+			[
+				"new ",
+				"ANF: New File"
+			],
+			[
+				"ti",
+				"Convert Case: Title Case"
+			],
+			[
+				"set bab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"of",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"f",
+				"File: Delete"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"came",
+				"Convert Case: camelCase"
+			],
+			[
+				"test",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"for",
+				"JsPrettier: Format Code"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"ren ",
+				"Rename File"
+			],
+			[
+				"UPP",
+				"Convert Case: Upper Case"
+			],
+			[
+				"php",
+				"PHP CS Fixer: format this file"
+			],
+			[
+				"foma",
+				"JsPrettier: Format Code"
+			],
+			[
+				"mardoe",
+				"MarkdownLivePreview: Open Preview"
+			],
+			[
+				"pret",
+				"Preferences: JsPrettier Settings - User"
+			],
+			[
+				"sna",
+				"Convert Case: snake_case"
+			],
+			[
+				"set vu",
+				"Set Syntax: Vue Component"
+			],
+			[
+				"cal",
+				"Convert Case: Lower Case"
+			],
+			[
+				"sn",
+				"Convert Case: snake_case"
+			],
+			[
+				"set htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"vue",
+				"Set Syntax: Vue Component"
+			],
+			[
+				"set js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pug",
+				"Build With: Pug"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"pc",
+				"Package Control: Install Package"
+			],
+			[
+				"set syn ba",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"pasca",
+				"Set Syntax: Pascal"
+			],
+			[
+				"pas",
+				"Convert Case: PascalCase"
+			],
+			[
+				"ca",
+				"Convert Case: snake_case"
+			],
+			[
+				"Ti",
+				"Convert Case: Title Case"
+			],
+			[
+				"fro",
+				"JsPrettier: Format Code"
+			],
+			[
+				"UPp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"snak",
+				"Convert Case: snake_case"
+			],
+			[
+				"pac i",
+				"Package Control: Install Package"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"pc in",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"set sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"pi",
+				"Package Control: Install Package"
+			],
+			[
+				"set syn ja",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"se php",
+				"Set Syntax: PHP"
+			],
+			[
+				"set sy ba",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"mark",
+				"MarkdownLivePreview: Edit Current File"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"php cs",
+				"PHP CS Fixer: format this file"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack i",
+				"Package Control: Install Package"
+			],
+			[
+				"run",
+				"Sublime PHPUnit: Run All Tests"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/sunilbagde/Code/react-tabs-1"
+	],
+	"file_history":
+	[
+		"/Users/sunilbagde/Library/Application Support/Sublime Text 3/Packages/User/JsPrettier.sublime-settings",
+		"/Users/sunilbagde/Code/react-tabs-1/src/App.js",
+		"/Users/sunilbagde/Code/react-tabs-1/react0tabs-1.sublime-project",
+		"/Users/sunilbagde/Library/Application Support/Sublime Text 3/Packages/User/ESLint-Formatter.sublime-settings",
+		"/Users/sunilbagde/Library/Application Support/Sublime Text 3/Packages/ESLint-Formatter/ESLint-Formatter.sublime-settings",
+		"/Users/sunilbagde/Code/ferry/app/Nova/Order.php",
+		"/Users/sunilbagde/Desktop/advanced-react-course-material-master/README.md",
+		"/Users/sunilbagde/Code/jsoniary-http-tool.com/l",
+		"/Users/sunilbagde/Code/jsoniary-http-tool.com/tailwind.config.js",
+		"/Users/sunilbagde/Desktop/code (2)/Icons v1.0.2/icons/icon-application.svg",
+		"/Users/sunilbagde/Code/tailwind-ui/Application UI/1 Application Shells/Stacked Layouts/Dark nav with compact white page header.html",
+		"/Users/sunilbagde/Code/jsoniary-http-tool.com/app/app.global.css",
+		"/Users/sunilbagde/Code/jsoniary-http-tool.com/app/app.html",
+		"/Users/sunilbagde/Code/jsoniary-http-tool.com/package.json",
+		"/Users/sunilbagde/Code/jsoniary-http-tool.com/configs/webpack.config.renderer.dev.babel.js",
+		"/Users/sunilbagde/Code/jsoniary-http-tool.com/configs/webpack.config.base.js",
+		"/Users/sunilbagde/Code/jsoniary-http-tool.com/app/containers/Root.js",
+		"/Users/sunilbagde/Code/jsoniary-http-tool.com/app/index.js",
+		"/Users/sunilbagde/Code/jsoniary-http-tool.com/app/main.dev.js",
+		"/Users/sunilbagde/Code/jsoniary-http-tool.com/app/Routes.tsx",
+		"/Users/sunilbagde/.Trash/App.tsx",
+		"/Users/sunilbagde/Code/jsoniary-http-tool.com/app/containers/Root.tsx",
+		"/Users/sunilbagde/Code/jsoniary-http-tool.com/app/containers/App.tsx",
+		"/Users/sunilbagde/.Trash/Root.tsx",
+		"/Users/sunilbagde/Code/jsoniary-http-tool.com/configs/webpack.config.eslint.js",
+		"/Users/sunilbagde/Code/jsoniary-http-tool.com/postcss.config.js",
+		"/Users/sunilbagde/Code/jsoniary-http-tool.com/app/containers/CounterPage.tsx",
+		"/Users/sunilbagde/Code/jsoniary-http-tool.com/app/components/Home.tsx",
+		"/Users/sunilbagde/Desktop/adamwathanss-tuibeta 2/adamwathanss-tuibeta/tailwind/Marketing/1. Page Sections/1. Hero Sections/With angled image on right.html",
+		"/Users/sunilbagde/Code/jsoniary.com/components/Shape1.js",
+		"/Users/sunilbagde/Code/tailwind-ui/Marketing/1. Page Sections/6. Newsletter Sections/With paragraph on dark.html",
+		"/Users/sunilbagde/Code/tailwind-ui/Marketing/1. Page Sections/6. Newsletter Sections/With paragraph on brand card.html",
+		"/Users/sunilbagde/Code/tailwind-ui/Marketing/1. Page Sections/6. Newsletter Sections/Simple stacked.html",
+		"/Users/sunilbagde/Code/jsoniary.com/tailwind.config.js",
+		"/Users/sunilbagde/Code/jsoniary.com/public/css/tailwind.css",
+		"/Users/sunilbagde/Code/jsoniary.com/components/HeroSectionWave.js",
+		"/Users/sunilbagde/Code/jsoniary.com/pages/index.js",
+		"/Users/sunilbagde/Code/jsoniary.com/components/FooterSvg.js",
+		"/Users/sunilbagde/Code/jsoniary.com/components/Wave.js",
+		"/Users/sunilbagde/Code/jsoniary.com/components/HeroSectionWave1.js",
+		"/Users/sunilbagde/Code/jsoniary.com/pages/_document.js",
+		"/Users/sunilbagde/Code/jsoniary.com/components/FeatureTwoImage.js",
+		"/Users/sunilbagde/Code/jsoniary.com/components/FeatureOneImage.js",
+		"/Users/sunilbagde/Code/jsoniary.com/template.html",
+		"/Users/sunilbagde/Code/jsoniary.com/.eslintrc.json",
+		"/Users/sunilbagde/Code/jsoniary.com/node_modules/_app.js",
+		"/Users/sunilbagde/Code/jsoniary.com/pages/_app.js",
+		"/Users/sunilbagde/Code/jsoniary.com/.gitignore",
+		"/Users/sunilbagde/Code/jsoniary.com/pages/\n_app.js",
+		"/Users/sunilbagde/Code/jsoniary.com/package.json",
+		"/Users/sunilbagde/Code/jsoniary.com/public/css/debug.css",
+		"/Users/sunilbagde/Code/jsoniary.com/next.config.js",
+		"/Users/sunilbagde/Code/jsoniary.com/postcss.config.js",
+		"/Users/sunilbagde/Desktop/code/Week 1/day-2/templates/template-1.html",
+		"/Users/sunilbagde/Code/m2m/src/js/components/BookingDetails.js",
+		"/Users/sunilbagde/Code/m2m/thank-you.php",
+		"/Users/sunilbagde/Code/m2m/src/js/components/helpers/config.js",
+		"/Users/sunilbagde/Code/m2m/src/js/components/SearchReturnDetails.js",
+		"/Users/sunilbagde/Code/m2m/src/js/components/SearchDetails.js",
+		"/Users/sunilbagde/Code/m2m/src/js/components/UserBooking.js",
+		"/Users/sunilbagde/Code/banking-block/components/Layout/index.js",
+		"/Users/sunilbagde/Code/banking-block/.,",
+		"/Users/sunilbagde/Code/banking-block/components/ActiveLink.js",
+		"/Users/sunilbagde/Code/banking-block/pages/index.js",
+		"/Users/sunilbagde/Code/banking-block/pages/loans/payment.js",
+		"/Users/sunilbagde/Code/banking-block/pages/members/index.js",
+		"/Users/sunilbagde/Code/banking-block/pages/members/edit.js",
+		"/Users/sunilbagde/Code/banking-block/pages/members/create.js",
+		"/Users/sunilbagde/Code/banking-block/README.md",
+		"/Users/sunilbagde/Code/banking-block/components/sidebarMenuItem.js",
+		"/Users/sunilbagde/Code/banking-block/components/secondNavbar.js",
+		"/Users/sunilbagde/Code/banking-block/.eslintrc.json",
+		"/Users/sunilbagde/Code/tailwind-ui/Application UI/3  Data Display/Elements/Dropdowns/With dividers.html",
+		"/Users/sunilbagde/Code/tailwind-ui/Application UI/3  Data Display/Elements/Button Groups/With dropdown.html",
+		"/Users/sunilbagde/Code/tailwind-ui/Marketing/1. Page Sections/5. FAQs/Centered accordion.html",
+		"/Users/sunilbagde/Code/banking-block/package.json",
+		"/Users/sunilbagde/Code/banking-block/components/TopNav.js",
+		"/Users/sunilbagde/Code/banking-block/tailwind.config.js",
+		"/Users/sunilbagde/Code/banking-block/components/MemberForm.js",
+		"/Users/sunilbagde/Code/banking-block/components/Sidebar.js",
+		"/Users/sunilbagde/Code/tailwind-ui/Application UI/3  Data Display/Navigation/Navbars/With search.html",
+		"/Users/sunilbagde/Code/tailwind-ui/Application UI/1 Application Shells/Stacked Layouts/Light nav on gray background.html",
+		"/Users/sunilbagde/Code/banking-block/pages/members.js",
+		"/Users/sunilbagde/Code/tailwind-ui/Application UI/3  Data Display/Tables/Wide Tables/Simple striped.html",
+		"/Users/sunilbagde/Code/tailwind-ui/Application UI/3  Data Display/Tables/Wide Tables/Simple.html",
+		"/Users/sunilbagde/Code/banking-block/pages/members-edit.js",
+		"/Users/sunilbagde/Code/banking-block/pages/members-create.js",
+		"/Users/sunilbagde/Code/banking-block/public/css/tailwind.css",
+		"/Users/sunilbagde/Code/banking-block/next.config.js",
+		"/Users/sunilbagde/Code/banking-block/node_modules/tailwindcss/tailwind.css",
+		"/Users/sunilbagde/Code/tailwind-ui/Application UI/2 Headings/Page Headings/With meta and actions.html",
+		"/Users/sunilbagde/Code/tailwind-ui/Application UI/2 Headings/Page Headings/With actions and breadcrumbs on dark.html",
+		"/Users/sunilbagde/Code/tailwind-ui/Application UI/2 Headings/Page Headings/With actions and breadcrumbs.html",
+		"/Users/sunilbagde/Code/tailwind-ui/Application UI/2 Headings/Page Headings/With actions on dark.html",
+		"/Users/sunilbagde/Code/tailwind-ui/Application UI/3  Data Display/Forms/Input Groups/Input with label.html",
+		"/Users/sunilbagde/Code/banking-block/node_modules/postcss-dir-pseudo-class/node_modules/postcss-selector-parser/dist/selectors/constructors.js",
+		"/Users/sunilbagde/Desktop/Rectangle 11.svg",
+		"/Users/sunilbagde/Code/tailwind-ui/Application UI/3  Data Display/Forms/Input Groups/Input with add-on.html",
+		"/Users/sunilbagde/Code/tailwind-ui/Application UI/3  Data Display/Forms/Input Groups/Input with inline leading and trailing add-ons.html",
+		"/Users/sunilbagde/Code/tailwind-ui/Application UI/3  Data Display/Forms/Input Groups/Inputs with shared borders.html",
+		"/Users/sunilbagde/Code/tailwind-ui/Application UI/3  Data Display/Forms/Input Groups/Input with inline leading dropdown.html",
+		"/Users/sunilbagde/Code/banking-block/components/SecondaryNav.js",
+		"/Users/sunilbagde/Code/tailwind-ui/Application UI/3  Data Display/Navigation/Navbars/Dark with quick action.html",
+		"/Users/sunilbagde/Code/banking-block/pages/_document.js",
+		"/Users/sunilbagde/Code/banking-block/components/Home.js",
+		"/Users/sunilbagde/Code/tailwind-ui/Application UI/3  Data Display/Navigation/Navbars/Simple dark with menu button on left.html",
+		"/Users/sunilbagde/Code/tailwind-ui/Application UI/3  Data Display/Navigation/Navbars/Dark with search.html",
+		"/Users/sunilbagde/Code/tailwind-ui/Application UI/3  Data Display/Description Lists/Left-aligned in card.html",
+		"/Users/sunilbagde/Desktop/Stack/Stack.js",
+		"/Users/sunilbagde/Code/ferry/routes/web.php",
+		"/Users/sunilbagde/Code/ferry/nova-components/ShipBooking/resources/js/components/Tool.vue",
+		"/Users/sunilbagde/Code/ferry/routes/api.php",
+		"/Users/sunilbagde/Code/ferry/nova-components/Fullcalendar/resources/js/components/Tool.vue",
+		"/Users/sunilbagde/Code/every-layout/Stack/Stack.css",
+		"/Users/sunilbagde/Code/every-layout/Stack/Stack.js",
+		"/Users/sunilbagde/Code/tailwind-ui/Marketing/1. Page Sections/9 Footers/Simple centered.html",
+		"/Users/sunilbagde/Code/tailwind-ui/Marketing/1. Page Sections/9 Footers/Social links only.html",
+		"/Users/sunilbagde/Code/tailwind-ui/Marketing/1. Page Sections/9 Footers/4-column with newsletter.html",
+		"/Users/sunilbagde/Code/tailwind-ui/Marketing/1. Page Sections/4. Pricing Sections/Single price with details.html",
+		"/Users/sunilbagde/Code/tailwind-ui/Marketing/1. Page Sections/4. Pricing Sections/Two tiers with extra tier.html",
+		"/Users/sunilbagde/Code/tailwind-ui/Marketing/1. Page Sections/7. Stats/Simple in card.html",
+		"/Users/sunilbagde/Code/tailwind-ui/Marketing/1. Page Sections/7. Stats/Simple on brand.html",
+		"/Users/sunilbagde/Code/tailwind-ui/Marketing/1. Page Sections/7. Stats/Split with image.html",
+		"/Users/sunilbagde/Code/tailwind-ui/Marketing/1. Page Sections/9 Footers/4-column with company mission.html",
+		"/Users/sunilbagde/Code/tailwind-ui/Marketing/1. Page Sections/9 Footers/4-column with newsletter dark.html",
+		"/Users/sunilbagde/Code/tailwind-ui/Marketing/1. Page Sections/3. CTA Sections/Simple centered.html",
+		"/Users/sunilbagde/Code/tailwind-ui/Marketing/1. Page Sections/3. CTA Sections/Simple justified.html",
+		"/Users/sunilbagde/Code/tailwind-ui/Marketing/1. Page Sections/3. CTA Sections/Simple stacked.html"
+	],
+	"find":
+	{
+		"height": 56.0
+	},
+	"find_in_files":
+	{
+		"height": 191.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 56.0
+	},
+	"input":
+	{
+		"height": 69.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 306.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 306.0
+	},
+	"output.doc":
+	{
+		"height": 300.0
+	},
+	"output.exec":
+	{
+		"height": 288.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "react0tabs-1.sublime-project",
+	"replace":
+	{
+		"height": 108.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Orde.p",
+				"app/Nova/Order.php"
+			],
+			[
+				"ream",
+				"README.md"
+			],
+			[
+				"Rou",
+				"app/Routes.tsx"
+			],
+			[
+				"app.ht",
+				"app/app.html"
+			],
+			[
+				"tab.js",
+				"app/tab.js"
+			],
+			[
+				"app.html",
+				"app/app.html"
+			],
+			[
+				"global.css",
+				"app/app.global.css"
+			],
+			[
+				"Roo",
+				"app/containers/Root.tsx"
+			],
+			[
+				"onents/wrapper",
+				"packages/insomnia-app/app/ui/components/wrapper.js"
+			],
+			[
+				"dnd-backend",
+				"packages/insomnia-app/app/ui/dnd-backend.js"
+			],
+			[
+				" tailwind.config.js",
+				"tailwind.config.js"
+			],
+			[
+				"ebpack.config.eslint.js",
+				"configs/webpack.config.eslint.js"
+			],
+			[
+				"Root",
+				"app/containers/Root.tsx"
+			],
+			[
+				"CounterPage",
+				"app/containers/CounterPage.tsx"
+			],
+			[
+				"Shap1",
+				"components/Shape1.js"
+			],
+			[
+				"FeatureOneImage",
+				"components/FeatureOneImage.js"
+			],
+			[
+				"tailwind.css",
+				"jsoniary.com/public/css/tailwind.css"
+			],
+			[
+				"HeroSectionWave",
+				"components/HeroSectionWave.js"
+			],
+			[
+				"FooterSvg",
+				"components/FooterSvg.js"
+			],
+			[
+				"HeroSectionWave1",
+				"components/HeroSectionWave1.js"
+			],
+			[
+				"pages/index.js",
+				"pages/index.js"
+			],
+			[
+				"tailw",
+				"tailwind.config.js"
+			],
+			[
+				"",
+				"public/css/tailwind.css"
+			],
+			[
+				"tailwindcs",
+				"public/css/tailwind.css"
+			],
+			[
+				"index",
+				"pages/index.js"
+			],
+			[
+				"tail",
+				"public/css/tailwind.css"
+			],
+			[
+				"api.php",
+				"routes/api.php"
+			],
+			[
+				"thank",
+				"thank-you.php"
+			],
+			[
+				"helpers/config",
+				"src/js/components/helpers/config.js"
+			],
+			[
+				"/css/debug.css",
+				"public/css/debug.css"
+			],
+			[
+				"_docu",
+				"pages/_document.js"
+			],
+			[
+				"ActiveLink",
+				"components/ActiveLink.js"
+			],
+			[
+				"sidebarMenuItem",
+				"components/sidebarMenuItem.js"
+			],
+			[
+				"tailwind",
+				"banking-block/public/css/tailwind.css"
+			],
+			[
+				"drop",
+				"tailwind-ui/Application UI/3  Data Display/Elements/Button Groups/With dropdown.html"
+			],
+			[
+				"accord",
+				"tailwind-ui/Marketing/1. Page Sections/5. FAQs/Centered accordion.html"
+			],
+			[
+				"drodown",
+				"tailwind-ui/Application UI/3  Data Display/Elements/Button Groups/With dropdown.html"
+			],
+			[
+				"TopN",
+				"banking-block/components/TopNav.js"
+			],
+			[
+				"with ser",
+				"tailwind-ui/Application UI/3  Data Display/Navigation/Navbars/With search.html"
+			],
+			[
+				"Side",
+				"banking-block/components/Sidebar.js"
+			],
+			[
+				"Mem",
+				"components/MemberForm.js"
+			],
+			[
+				"Sidebar",
+				"banking-block/components/Sidebar.js"
+			],
+			[
+				"Sideba",
+				"banking-block/components/Sidebar.js"
+			],
+			[
+				"sidebar",
+				"banking-block/components/Sidebar.js"
+			],
+			[
+				"MembeFo",
+				"banking-block/components/MemberForm.js"
+			],
+			[
+				"tailcss",
+				"banking-block/public/css/tailwind.css"
+			],
+			[
+				"with sea",
+				"tailwind-ui/Application UI/3  Data Display/Navigation/Navbars/With search.html"
+			],
+			[
+				"MemberForm",
+				"components/MemberForm.js"
+			],
+			[
+				"members",
+				"pages/members.js"
+			],
+			[
+				"membe",
+				"pages/members.js"
+			],
+			[
+				"member",
+				"pages/members.js"
+			],
+			[
+				"dropdow",
+				"tailwind-ui/Application UI/3  Data Display/Forms/Input Groups/Input with inline leading dropdown.html"
+			],
+			[
+				"dropdw",
+				"tailwind-ui/Application UI/3  Data Display/Elements/Button Groups/With dropdown.html"
+			],
+			[
+				"acco",
+				"Marketing/1. Page Sections/5. FAQs/Centered accordion.html"
+			],
+			[
+				"web",
+				"routes/web.php"
+			],
+			[
+				"api",
+				"routes/api.php"
+			],
+			[
+				"eta and actions on dark.html",
+				"Application UI/2 Headings/Page Headings/With actions on dark.html"
+			],
+			[
+				" meta and actions on dark.html",
+				"Application UI/2 Headings/Page Headings/With meta and actions on dark.html"
+			],
+			[
+				"tion/With secondary navigation.htm",
+				"Application UI/3  Data Display/Navigation/Vertical Navigation/With secondary navigation.html"
+			],
+			[
+				"UserBookingController",
+				"ferry/app/Http/Controllers/Api/User/UserBookingController.php"
+			],
+			[
+				"app",
+				"m2m/src/js/app.js"
+			],
+			[
+				"app.js",
+				"m2m/dist/app.js"
+			],
+			[
+				"main",
+				"m2m/scripts/main.js"
+			],
+			[
+				"Nav",
+				"src/components/Navbar.js"
+			],
+			[
+				"tabb",
+				"tailwind-ui/Application UI/3  Data Display/Navigation/Tabs/Tabs in pills with brand color.html"
+			],
+			[
+				"UserB",
+				"app/Http/Controllers/Api/User/UserBookingController.php"
+			],
+			[
+				"ShipScheduleApiController",
+				"app/Http/Controllers/Api/Ship/ShipScheduleApiController.php"
+			],
+			[
+				"ShipTicketOrdersController",
+				"app/Http/Controllers/Api/Ship/ShipTicketOrdersController.php"
+			],
+			[
+				"web.php",
+				"routes/web.php"
+			],
+			[
+				"50_add_traction_id_to_order_table.php",
+				"database/migrations/2020_03_06_083850_add_traction_id_to_order_table.php"
+			],
+			[
+				"ferr",
+				"ferry-search-results.html"
+			],
+			[
+				"ferry-search-results.",
+				"m2m/ferry-search-results.html"
+			],
+			[
+				"index.ht",
+				"m2m/index.html"
+			],
+			[
+				"ferry-search-results",
+				"m2m/ferry-search-results.html"
+			],
+			[
+				"service",
+				"ferry/config/services.php"
+			],
+			[
+				"main.css",
+				"styles/main.css"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"index.html",
+				"index.html"
+			],
+			[
+				"VehicSee",
+				"database/seeds/VehicleTableSeeder.php"
+			],
+			[
+				"Vehicle",
+				"database/seeds/VehicleBrandTableSeeder.php"
+			],
+			[
+				"ShipTime",
+				"app/Http/Resources/ShipTimeResource.php"
+			],
+			[
+				"Shipreso",
+				"app/Http/Resources/ShipResource.php"
+			],
+			[
+				"sea",
+				"ferry-search-results.html"
+			],
+			[
+				"PaymentsController",
+				"app/Http/Controllers/Payment/PaymentsController.php"
+			],
+			[
+				"Customer",
+				"app/Http/Controllers/Customer/CustomerOrdersController.php"
+			],
+			[
+				"order.blade",
+				"resources/views/orders/show.blade.php"
+			],
+			[
+				"help",
+				"helpers.php"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"cre_trip",
+				"database/migrations/2020_03_01_085445_create_trip_stocks_table.php"
+			],
+			[
+				"TripS",
+				"app/Models/TripStock.php"
+			],
+			[
+				"Trip",
+				"app/Models/Trip.php"
+			],
+			[
+				"Tri",
+				"app/Nova/Trip.php"
+			],
+			[
+				"ShpSeeder",
+				"database/seeds/ShipsTableSeeder.php"
+			],
+			[
+				"_ship_",
+				"database/migrations/2019_12_02_133235_create_ships_table.php"
+			],
+			[
+				"Ship",
+				"app/Models/Ship.php"
+			],
+			[
+				"Api/Ship/ShipScheduleApiControllerApi",
+				"app/Http/Controllers/Api/Ship/ShipScheduleApiControllerApi.php"
+			],
+			[
+				"ship_tim",
+				"database/migrations/2019_12_05_143030_create_ship_times_table.php"
+			],
+			[
+				"Trip_",
+				"database/migrations/2020_03_01_085445_create_trip_stocks_table.php"
+			],
+			[
+				"ShipV",
+				"app/Http/Resources/ShipVehicleResource.php"
+			],
+			[
+				"ShipVehic",
+				"app/Nova/ShipVehicleType.php"
+			],
+			[
+				"TripAPiC",
+				"app/Http/Controllers/Api/Trip/TripApiController.php"
+			],
+			[
+				"vehicleTpe",
+				"app/Http/Resources/VehicleTypeResource.php"
+			],
+			[
+				"ship_vehicle_types",
+				"database/migrations/2019_12_06_192648_create_ship_vehicle_types_table.php"
+			],
+			[
+				"vehicleTypeSe",
+				"database/seeds/VehicleTypesTableSeeder.php"
+			],
+			[
+				"vehicleTy_",
+				"database/migrations/2019_11_24_103500_create_vehicle_types_table.php"
+			],
+			[
+				"ShipSeeder",
+				"database/seeds/ShipsTableSeeder.php"
+			],
+			[
+				"TripApiController",
+				"app/Http/Controllers/Api/Trip/TripApiController.php"
+			],
+			[
+				"ShipSee",
+				"database/seeds/ShipsTableSeeder.php"
+			],
+			[
+				"HiddenField",
+				"vendor/outhebox/nova-hidden-field/src/HiddenField.php"
+			],
+			[
+				"ShipTicketFlexibleContentResolver",
+				"app/Nova/Flexible/Resolvers/ShipTicketFlexibleContentResolver.php"
+			],
+			[
+				"useInputChange",
+				"src/hooks/useInputChange.js"
+			],
+			[
+				"Sa\\Permission",
+				"vendor/spatie/laravel-permission/src/Models/Permission.php"
+			],
+			[
+				"Permis",
+				"app/Models/Permission.php"
+			],
+			[
+				"Permiss",
+				"vendor/vyuldashev/nova-permission/src/Permission.php"
+			],
+			[
+				"ForgetCachedPermissions.",
+				"vendor/vyuldashev/nova-permission/src/ForgetCachedPermissions.php"
+			],
+			[
+				"NovaServiceProvider",
+				"app/Providers/NovaServiceProvider.php"
+			],
+			[
+				"nova.php",
+				"config/nova.php"
+			],
+			[
+				"compo",
+				"composer.json"
+			],
+			[
+				"Novaser",
+				"app/Providers/NovaServiceProvider.php"
+			],
+			[
+				"Kenel",
+				"app/Http/Kernel.php"
+			],
+			[
+				"ForgetCachedPermissions",
+				"vendor/vyuldashev/nova-permission/src/ForgetCachedPermissions.php"
+			],
+			[
+				"v\\NovaPermission\\Role",
+				"vendor/vyuldashev/nova-permission/src/Role.php"
+			],
+			[
+				"Role.",
+				"app/Nova/Role_.php"
+			],
+			[
+				"User.hp",
+				"app/User.php"
+			],
+			[
+				"Role",
+				"app/Models/Role.php"
+			],
+			[
+				"Role.php",
+				"vendor/vyuldashev/nova-permission/src/Role.php"
+			],
+			[
+				"TripMa/re",
+				"nova-components/TripManager/node_modules/d/README.md"
+			],
+			[
+				"SHip",
+				"app/Nova/Ship.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
